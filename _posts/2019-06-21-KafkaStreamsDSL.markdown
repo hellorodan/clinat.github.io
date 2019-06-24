@@ -214,7 +214,7 @@ KStream<String,Object> joinedStream =
 
 连接窗口本质上是滑动窗口，是基于记录的时间戳，不是具体时间。
 
-![image-20190621151713059](/img_post/joinwindow_doc.png)
+![image-20190621151713059](/img_post/KafkaStreamsDSL/joinwindow_doc.png)
 
 只有KStream和KStream进行连接操作时才需要窗口操作，因为KTable的数据集是有限的，所以不需要窗口。
 

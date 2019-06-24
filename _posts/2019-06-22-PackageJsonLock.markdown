@@ -16,7 +16,7 @@ tags:
 
 ## 问题描述
 
-![](/img_post/github_security_alert.png)
+![](/img_post/GithubSecurityAlert/github_security_alert.png)
 
 GitHub提示：We found a potential security vulnerability in one of your dependencies.
 
