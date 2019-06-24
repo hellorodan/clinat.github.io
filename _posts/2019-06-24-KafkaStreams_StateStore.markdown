@@ -55,9 +55,11 @@ tags:
 
 <img src="/img_post/KafkaStreamsStateStore/state_store6.png" style="zoom:40%">
 
-**阶段六：**重启流实例1，并关闭流实例2，此时触发再平衡操作，流任务T2分配到流实例1上，通过检查点文件进行状态恢复。因为关闭流实例1时生成的检查点文件记录的位置为左图的位置，所以需要从该位置开始进行同步，同步到变更日志主题的最新位置，如右图。
+**阶段六：**重启流实例1，并关闭流实例2，此时触发再平衡操作，流任务T2分配到流实例1上，通过检查点文件进行状态恢复。因为关闭流实例1时生成的检查点文件记录的位置不是最新的位置，所以需要从该位置开始进行同步，同步到变更日志主题的最新位置。
 
-<img src="/img_post/KafkaStreamsStateStore/state_store7.png" style="zoom:25%"><img src="/img_post/KafkaStreamsStateStore/state_store8.png" style="zoom:25%">
+<img src="/img_post/KafkaStreamsStateStore/state_store7.png" style="zoom:35%">
+
+<img src="/img_post/KafkaStreamsStateStore/state_store8.png" style="zoom:35%">
 
 **阶段七：**重启流实例2，再次触发再平衡操作，同样，流实例2需要通过检查点文件进行状态恢复。
 
