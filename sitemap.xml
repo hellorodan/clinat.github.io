@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://clinat.github.io/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/about/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/portfolio/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/07/01/KafkaStreams_KTable/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/27/ReferenceCounting/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/26/MarkSweepGC/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/24/KafkaStreams_StateStore/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/23/KafkaStreams_ThreadModel/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/23/KafkaStreams/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/22/PackageJsonLock/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/21/KafkaStreamsProcessorAPI/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/21/KafkaStreamsDSL/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/2019/06/21/HelloWorld/</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=Kafka</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=GC</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=Problem</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=GitHub</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=%E7%94%9F%E6%B4%BB</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://clinat.github.io/archive/?tag=Meta</loc>
+  <lastmod>2019-07-02T08:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
