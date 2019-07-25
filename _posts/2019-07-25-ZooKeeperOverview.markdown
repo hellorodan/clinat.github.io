@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "zookeeper概述"
-subtitle:   " \"zookeeper相关介绍和客户端使用\""
+title:      "ZooKeeper概述"
+subtitle:   " \"ZooKeeper相关介绍和客户端使用\""
 date:       2019-07-25 15:00:00
 author:     "Clinat"
 header-img: "img/post-bg-infinity.jpg"
@@ -13,7 +13,7 @@ tags:
 > “ZooKeeper的相关介绍，安装过程以及客户端的使用”
 
 
-## zookeeper概述
+## ZooKeeper概述
 
 雅虎创建，基于 Google chubby
 
