@@ -7,7 +7,6 @@ author:     "Clinat"
 header-img: "img/post-bg-2019.jpg"
 catalog: true
 tags:
-    - 生活
     - Meta
 ---
 
